@@ -19,7 +19,7 @@ body{
     border-radius: 7px;
     padding: 30px;
     letter-spacing: 0.05rem;
-    box-shadow: 0px 4px 8px rgb(103, 99, 99);
+    box-shadow: 0px 4px 8px rgb(223, 222, 222);
 }
 /* main form card  */
 .form-section{
@@ -33,7 +33,7 @@ body{
 
 /* student Registration  */
 .header-main{
-    background: linear-gradient(to left,#fa8bc1,#fa8bc2,#de89d7,#c6aaef);
+    background: linear-gradient(to left,#f073af,#fa8bc2,#de89d7,#7e51c2);
     padding: 1.5rem;
     text-align: center;
     color: white;
@@ -42,7 +42,7 @@ body{
 }
 .form-container{
     padding: 2rem;
-    background: linear-gradient(to bottom,#f3ecef,#f0c8d9);
+    background: linear-gradient(to bottom,#f4ddf1,#f3e8eb);
     display: flex;
     flex-direction: column;
     gap:1.5rem;
@@ -179,12 +179,12 @@ body{
     transition: all 0.2s ease;
 }
 .reset-button{
-    color: #374151;
-    background-color: #e5e7eb;
+    color: black;
+    background-color: white;
 }
-.reset-button:hover{
+/* .reset-button:hover{
     background-color: #d1d5db;
-}
+} */
 .submit-button{
     color: white;
     background: linear-gradient( to right,#d175ec,#ec4899);
@@ -203,6 +203,6 @@ body{
     border-radius: 7px;
     padding: 40px;
     letter-spacing: 0.05em;
-    box-shadow: 0px 4px 8px rgb(103, 99, 99);
+    box-shadow: 0px 4px 8px rgb(191, 181, 181);
 
 }
